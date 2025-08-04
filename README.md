@@ -56,6 +56,6 @@ MIT License © 2025 [OMYTECH](https://omytech.co.ke)
 
 ## 🌐 Connect with Us
 - Website: [omytech.co.ke](https://omytech.co.ke)
-- WhatsApp Channel: *Coming Soon*
+
 
 
